@@ -38,5 +38,3 @@ pip install customtkinter pywinstyles Pillow
 git clone https://github.com/Ale-rb/Ares_2.5_GUI.git
 cd Ares_2.5_GUI
 python main.py
-
-<img width="2559" height="1243" alt="image" src="https://github.com/user-attachments/assets/0aeb27cb-1a00-4a3c-9ecd-7a64d81eebfc" />
